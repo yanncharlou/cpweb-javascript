@@ -1,0 +1,47 @@
+baseURL = 'http://example.org/'
+languageCode = 'fr-FR'
+title = 'Cours Javascript'
+theme = "learn"
+
+defaultContentLanguage = "fr"
+
+#title = "Hugo Learn Documentation"
+#theme = "hugo-theme-learn"
+#themesdir = "../.."
+metaDataFormat = "yaml"
+defaultContentLanguageInSubdir= true
+
+[params]
+  #editURL = "https://github.com/matcornic/hugo-theme-learn/edit/master/exampleSite/content/"
+  description = "Documentation du cours Javascript CP Web"
+  author = "Yann Charlou"
+  showVisitedLinks = true
+  disableBreadcrumb = false
+  disableNextPrev = false
+  disableLandingPageButton = true
+  disableMermaid = false
+  customMermaidURL = "https://unpkg.com/mermaid@8.8.0/dist/mermaid.min.js"
+  titleSeparator = "::"
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+[Languages]
+
+[Languages.fr]
+title = "Documentation du thème Hugo Learn"
+weight = 2
+languageName = "Français"
+landingPageURL = "/fr"
+landingPageName = "<i class='fas fa-home'></i> Accueil"
+
+[[Languages.fr.menu.shortcuts]]
+name = "<i class='fas fa-fw fa-bookmark'></i> Comment c'est fait ?"
+identifier = "hugodoc"
+url = "https://gohugo.io/"
+weight = 20
+
+#[[Languages.fr.menu.shortcuts]]
+#name = "<i class='fas fa-fw fa-bullhorn'></i> Crédits"
+#url = "/credits"
+#weight = 30
