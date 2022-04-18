@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://yanncharlou.fr/cpweb/javascript/'
 languageCode = 'fr-FR'
 title = 'Cours Javascript'
 theme = "learn"
