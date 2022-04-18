@@ -27,7 +27,8 @@ jobs:
     - name: Deploy
       uses: SamKirkland/FTP-Deploy-Action@4.0.0
       with:
-        ftp-server:  ${{ secrets.DEPLOY_FTP_HOST_PATH }}
-        ftp-username: ${{ secrets.DEPLOY_FTP_USERNAME }}
-        ftp-password: ${{ secrets.DEPLOY_FTP_PASSWORD }}
-        local-dir: public/
+        server:  ${{ secrets.DEPLOY_FTP_HOST }}
+        username: ${{ secrets.DEPLOY_FTP_USERNAME }}
+        password: ${{ secrets.DEPLOY_FTP_PASSWORD }}
+        server-dir: /cpweb/javascript/
+        local-dir: ./public/
