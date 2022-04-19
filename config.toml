@@ -5,6 +5,10 @@ theme = "learn"
 
 landingPageURL = 'https://cpweb.yanncharlou.fr/'
 
+#allow local browsing of zip version.
+relativeURLs = true
+uglyurls = true
+
 defaultContentLanguage = "fr"
 
 #title = "Hugo Learn Documentation"
