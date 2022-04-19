@@ -1,0 +1,14 @@
++++
+title = "Tableau"
+date =  2022-04-19T14:02:22+02:00
+weight = 70
+pre = "<b>7.</b> "
++++
+
+## Énoncé
+
+- Téléchargez les fichiers de départ : [exercice-7-tableau-start.zip](/exos-js/7-tableau/exercice-7-tableau-start.zip)
+
+L'objectif est d'indiquer les images à charger directement depuis JavaScript.
+
+Faites en sorte d'afficher les 3 images dans le HTML en utilisant les urls fournies dans le tableau avec une boucle.
