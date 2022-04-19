@@ -47,6 +47,12 @@ identifier = "hugodoc"
 url = "https://gohugo.io/"
 weight = 20
 
+[[Languages.fr.menu.shortcuts]]
+name = "<i class='fas fa-fw fa-download'></i> Télécharger ce site"
+url = "/cpweb-javascript.zip"
+weight = 30
+
+
 #[[Languages.fr.menu.shortcuts]]
 #name = "<i class='fas fa-fw fa-bullhorn'></i> Crédits"
 #url = "/credits"
