@@ -24,6 +24,17 @@ jobs:
     - name: Build
       run: hugo --minify
 
+    - name: Build downloadable archive of website
+      uses: thedoctor0/zip-release@master
+      with:
+        type: 'zip'
+        filename: 'public.zip'
+        path: './public/'
+        #exclusions: '*.git* /*node_modules/* .editorconfig'
+
+    - name: Move downloadable archive to public
+      run: mv public.zip ./public/cpweb-javascript.zip
+
     - name: Deploy
       uses: SamKirkland/FTP-Deploy-Action@4.0.0
       with:
