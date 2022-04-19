@@ -1,9 +1,9 @@
-baseURL = 'https://yanncharlou.fr/cpweb/javascript/'
+baseURL = 'https://cpweb.yanncharlou.fr/'
 languageCode = 'fr-FR'
 title = 'Cours Javascript'
 theme = "learn"
 
-landingPageURL = 'https://yanncharlou.fr/cpweb/javascript/'
+landingPageURL = 'https://cpweb.yanncharlou.fr/'
 
 defaultContentLanguage = "fr"
 
