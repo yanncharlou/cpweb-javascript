@@ -1,9 +1,9 @@
 +++
-title = "Cours Javascript"
+title = "Javascript"
 date = 2022-04-19T16:13:38+02:00
-weight = 5
+weight = 15
 chapter = true
-pre = "<b></b>"
+pre = "<b>Cours </b>"
 +++
 
 ### Javascript

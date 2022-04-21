@@ -1,6 +1,6 @@
 baseURL = 'https://cpweb.yanncharlou.fr/'
 languageCode = 'fr-FR'
-title = 'Cours Javascript'
+title = 'Cours Web'
 theme = "learn"
 
 landingPageURL = 'https://cpweb.yanncharlou.fr/'

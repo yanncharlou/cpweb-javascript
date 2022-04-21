@@ -1,9 +1,9 @@
 +++
-title = "Memo javascript"
+title = "Javascript"
 date = 2022-04-18T14:18:00+02:00
-weight = 5
+weight = 25
 chapter = true
-pre = "<b></b>"
+pre = "<b>Memo </b>"
 +++
 
 ### Javascript

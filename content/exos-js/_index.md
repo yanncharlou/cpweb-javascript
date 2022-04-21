@@ -1,9 +1,9 @@
 +++
-title = "Exos Javascript"
+title = "Javascript"
 date = 2022-04-19T13:50:08+02:00
-weight = 10
+weight = 30
 chapter = true
-pre = "<b></b>"
+pre = "<b>Exos </b>"
 +++
 
 ### Javascript
