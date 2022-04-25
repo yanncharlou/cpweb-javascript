@@ -1,8 +1,8 @@
 +++
 title = "Prompt"
 date =  2022-04-19T14:02:22+02:00
-weight = 40
-pre = "<b>4.</b> "
+weight = 60
+pre = "<b>6.</b> "
 +++
 
 ## Énoncé
