@@ -27,7 +27,7 @@ https://fr.wikipedia.org/wiki/Technique_Pomodoro
 https://managementhumanumest.wordpress.com/2016/09/14/la-celebre-technique-du-pomodoro/
 https://francescocirillo.com/pages/pomodoro-technique
 
-Il existe de nombreuses app android et iOs qui gèrent automatiquement le temps de travail et de pose.
+Il existe de nombreuses app android et iOs qui gèrent automatiquement le temps de travail et de pause.
 La plupart bloquent en même temps les notifications.
 
 ## Méthode ZettleKasten (le second cerveau des créateurs de contenu et des chercheurs)
