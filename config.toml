@@ -35,7 +35,7 @@ home = [ "HTML", "RSS", "JSON"]
 [Languages]
 
 [Languages.fr]
-title = "Documentation du thème Hugo Learn"
+title = "Documentation HTML / CSS / Javascript CP Web"
 weight = 2
 languageName = "Français"
 #landingPageURL = "https://yanncharlou.fr/cpweb/javascript/fr/"
