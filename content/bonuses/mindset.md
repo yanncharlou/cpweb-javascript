@@ -4,7 +4,7 @@ date =  2022-04-27T13:34:16+02:00
 weight = 10
 +++
 
-## Si vous envisagez de monter votre entreprise où de travailler en indépendant
+## Si vous envisagez de monter votre entreprise ou de travailler en indépendant
 
 La semaine de 4 heures (Tim Ferris) : https://www.amazon.fr/dp/B00NP4YDQU/ref=cm_sw_em_r_mt_dp_X9ANF58KBPVX22Y9QF3X
 
