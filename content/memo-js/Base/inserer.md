@@ -4,7 +4,7 @@ description : "Comment utiliser JS ?"
 weight: 10
 ---
 
-## Via un fichier javascrip externe (conseillé)
+## Via un fichier javascript externe (conseillé)
 C'est le même principe que pour les fichiers CSS mais avec une balise `<script></script>`.
 
 
