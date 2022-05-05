@@ -15,10 +15,10 @@ console.log(sports[0]); //affiche basket
 console.log(sports[1]); //affiche volley
 
 //Tableau contenant un autre tableau
-var random= ['arbre', 795, [12, 88, 512, 42]];
-console.log(random.length); //affiche 3
-console.log(random[2][2].length); //affiche 4
-console.log(random[2][3].length); //affiche 512
+var tableau2D= ['arbre', 795, [12, 88, 512, 42]];
+console.log(tableau2D.length); //affiche 3
+console.log(tableau2D[2][2].length); //affiche 4
+console.log(tableau2D[2][3].length); //affiche 512
 ```
 {{% notice note %}}
 La première case d'un tableau porte le numéro 0.
@@ -43,3 +43,14 @@ console.log(array) // [ "4", "2", "3" ]
 console.log(removeLast) // 5
 console.log(removeFirst) // 0
 ```
+
+## Tirer au hasard une case de tableau
+
+```js
+let messages = ['coucou', 'machin', 'truc'];
+//je tire au hasard un nombre entier entre 0 et la longueur du tableau.
+let indiceRandom = Math.floor(Math.random() * messages.length);
+alert(messages[indiceRandom]);
+```
+
+Autre exemple sur la page [Objects]({{< ref "memo-js/Base/objects.md" >}}).

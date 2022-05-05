@@ -14,10 +14,21 @@ Ex : la page vient de finir de se charger, l'utilisateur vient de cliquer sur qu
 ```
 
 ```js
+
+// j'écoute le clic sur le bouton
 let monBouton = document.getElementById("mon-bouton");
 monBouton.addEventListener('click', function(e) {
     console.log("Clic sur le bouton");
     monBouton.style.backgroundColor  = "red";
+})
+
+// j'écoute l'appui sur une lettre du clavier
+//keypress marche avec les touches lettrées, keydown détecte toutes les touches du clavier.
+document.addEventListener("keydown", function (e) {
+    console.log(e['key']); // affiche la touche dans la console.
+    if (e['key'] == 'c') {
+        alert("Vous avez appuyé sur la touche c.");
+    }
 })
 ```
 
@@ -32,7 +43,8 @@ Astuce, on peut utiliser la commande `e.preventDefault()` pour empêcher que les
 | blur | L'élément vient de perdre le focus |
 | mouseover | La souris vient de passer au-dessus de l'élément |
 | mouseout | La souris vient de quitter l'élément |
-| keydown | L'utilisateur a appuyé sur une touche du clavier |
+| keydown | L'utilisateur a appuyé sur une touche du clavier (inclus CTRL, etc...) |
+| keypress | L'utilisateur a appuyé sur une touche de lettre ou chiffre du clavier |
 | load | Le navigateur a fini de charger la page |
 
 ## Écouter un événement via un attribut HTML

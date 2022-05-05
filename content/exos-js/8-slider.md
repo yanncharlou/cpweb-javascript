@@ -1,8 +1,8 @@
 +++
 title = "Slider"
 date =  2022-04-19T14:02:22+02:00
-weight = 70
-pre = "<b>7.</b> "
+weight = 80
+pre = "<b>8.</b> "
 +++
 
 ## Énoncé

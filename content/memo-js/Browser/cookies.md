@@ -1,7 +1,7 @@
 +++
 title = "Cookies"
 date =  2022-04-18T21:11:58+02:00
-weight = 5
+weight = 10
 +++
 
 Un cookie est une donnée stockée dans un petit fichier texte qu'un site peut laisser dans le navigateur du visiteur.

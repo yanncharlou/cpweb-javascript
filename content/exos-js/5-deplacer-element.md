@@ -16,4 +16,5 @@ pre = "<b>5.</b> "
     - Si on clique sur le bouton "Déplacer vers la gauche", le paragraphe se déplace vers la gauche.
     - Si on clique sur le bouton "Déplacer vers la droite", le paragraphe se déplace vers la droite.
 
-{{%expand "Aide ?" %}}L'astuce consiste à modifier les css du paragraphe à chaque clic pour qu'il se déplace.{{% /expand%}}
+{{%expand "Aide ?" %}}L'astuce consiste à modifier les css du paragraphe à chaque clic pour qu'il se déplace. Vous pouvez par exemple mettre l'élément en `position:relative` puis modifier sa directive `left` en css.
+{{% /expand%}}
