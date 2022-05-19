@@ -1,7 +1,7 @@
 +++
 title = "Mindset"
 date =  2022-04-27T13:34:16+02:00
-weight = 10
+weight = 100
 +++
 
 ## Si vous envisagez de monter votre entreprise ou de travailler en indépendant
