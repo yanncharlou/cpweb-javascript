@@ -4,6 +4,15 @@ date =  2022-04-27T13:13:17+02:00
 weight = 5
 +++
 
+## Prendre des notes avec la méthode Cornell
+
+**Modèle en Français** pour la prise de notes : [PDF](/bonuses/cornell/notes-cornell.pdf) [AI](/bonuses/cornell/notes-cornell.ai)
+
+**Quelques liens** pour découvrir la méthode :
+- https://misterprepa.net/la-methode-cornell-une-prise-de-note-rapide-et-efficace/
+- https://sherpas.com/blog/methode-cornell-ameliorer-sa-prise-de-notes/
+- https://etreetudiant.com/methode-de-prise-de-note-efficace/
+
 ## Méthode GTD (L'arme secrète du chef de projet)
 
 Méthode idéale pour tous les postes qui reçoivent beaucoup d'informations. (chefs d'entreprises, cadres, chefs de projets,...)
