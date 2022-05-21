@@ -4,6 +4,11 @@ date =  2022-04-18T16:02:17+02:00
 weight = 80
 +++
 
+{{% notice tip %}}
+Besoin d'une explication détaillée parce que vous n'avez rien compris ?
+<a href="https://openclassrooms.com/fr/courses/6175841-apprenez-a-programmer-avec-javascript/6279104-utilisez-la-bonne-boucle-pour-repeter-les-taches-for-while" target="_blank">ICI</a>
+{{% /notice %}}
+
 ## For
 Compte de x à y
 ```js

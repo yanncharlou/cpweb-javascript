@@ -17,6 +17,9 @@ defaultContentLanguage = "fr"
 metaDataFormat = "yaml"
 defaultContentLanguageInSubdir= true
 
+[markup.goldmark.renderer]
+  unsafe= true
+
 [params]
   #editURL = "https://github.com/matcornic/hugo-theme-learn/edit/master/exampleSite/content/"
   description = "Documentation du cours Javascript CP Web"
@@ -51,7 +54,6 @@ weight = 20
 name = "<i class='fas fa-fw fa-download'></i> Télécharger ce site"
 url = "/cpweb-javascript.zip"
 weight = 30
-
 
 #[[Languages.fr.menu.shortcuts]]
 #name = "<i class='fas fa-fw fa-bullhorn'></i> Crédits"

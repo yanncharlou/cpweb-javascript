@@ -6,6 +6,11 @@ weight = 30
 
 Javascript peut modifier comme il veut le contenu HTML de la page.
 
+{{% notice tip %}}
+Besoin d'une explication détaillée parce que vous n'avez rien compris ?
+<a href="https://openclassrooms.com/fr/courses/5543061-ecrivez-du-javascript-pour-le-web/5577491-modifiez-le-dom" target="_blank">ICI</a>
+{{% /notice %}}
+
 ## Modifier les styles CSS
 
 ```js

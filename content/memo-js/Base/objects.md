@@ -6,6 +6,11 @@ weight = 55
 
 Les objets sont des structures, comme les tableaux, qui peuvent contenir des attributs et des fonctions.
 
+{{% notice tip %}}
+Besoin d'une explication détaillée parce que vous n'avez rien compris ?
+<a href="https://openclassrooms.com/fr/courses/6175841-apprenez-a-programmer-avec-javascript/6278564-definissez-des-objets-et-leurs-attributs-avec-des-classes" target="_blank">ICI</a>
+{{% /notice %}}
+
 ```js
 var marin = {
     nom: "Haddock",
