@@ -25,7 +25,7 @@ jobs:
       run: hugo --minify
 
     - name: Build downloadable archive of website
-      uses: thedoctor0/zip-release@master
+      uses: thedoctor0/zip-release@main
       with:
         type: 'zip'
         filename: 'public.zip'
