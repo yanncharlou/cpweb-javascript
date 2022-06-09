@@ -22,3 +22,4 @@ pre = "<b>Cours </b>"
 - <a href="https://wordpress.org/support/category/getting-started/" target="_blank">Guide de démarrage (EN)</a>
 - <a href="https://wordpress.org/support/article/using-themes/" target="_blank">Utiliser les thèmes (EN)</a>
 - <a href="https://developer.wordpress.org/themes/" target="_blank">Créer un thème (EN)</a>
+- <a href="https://wphierarchy.com/" target="_blank">Hiérarchie des templates (EN)</a>
