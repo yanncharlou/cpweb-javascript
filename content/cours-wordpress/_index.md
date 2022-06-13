@@ -29,3 +29,7 @@ pre = "<b>Cours </b>"
 - <a href="https://wphierarchy.com/" target="_blank">Hiérarchie des templates (EN)</a>
 - <a href="https://codex.wordpress.org/Plugin_API/Action_Reference" target="_blank">Liste des actions (EN)</a>
 - <a href="https://codex.wordpress.org/Plugin_API/Filter_Reference" target="_blank">Liste des filtres (EN)</a>
+
+### Les plugins bien pratiques
+- `Query Monitor` : Affiche de nombreuses informations sur la page en cours dans la barre.
+- `Show Current Template` : Affiche le template utilisé par la page en cours dans la barre.
