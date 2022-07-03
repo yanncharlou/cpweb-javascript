@@ -12,7 +12,8 @@ Voici ci-dessous tout de même quelques podcasts et chaines Youtube qui m'ont pe
 
 ## Marketing Mania (podcast + youtube)
 À mon avis le meilleur podcast de Marketing et Copywriting que vous pourrez trouver.
-Des interviews très inspirantes d'entrepreneurs qui présentent leur façon de travailler. Et des contenus théoriques ou pratiques tout à fait passionnants. Et bien entendu des conseils de lecture vraiment tops.
+Des interviews très inspirantes d'entrepreneurs qui présentent leur façon de travailler, des contenus théoriques ou pratiques tout à fait passionnants et des conseils de lecture vraiment tops.
+
 https://marketingmania.fr/podcast/
 
 Je vous conseille tout particulièrement deux séries d'épisodes qui traitent des biais cognitifs appliqués au marketing.
@@ -23,7 +24,7 @@ Il y a aussi une chaine Youtube :
 - https://www.youtube.com/channel/UCSmUdD2Dd_v5uqBuRwtEZug
 
 ## Eliott Meunier (youtube)
-Eliott se focalise sur la gestion de la connaissance. Il a remis au goût du jour et appliquée avec des logiciels modernes, la méthode ZettleKasten. Ses vidéos sont absolument à voir pour tous ceux qui envisagent de devenir créateurs de contenus ou qui vont devoir créer et manipuler de la connaissance au cours de leur carrière. (Rédacteurs, Chercheurs, Vidéastes ...)
+Eliott se focalise sur la gestion de la connaissance. Il a remise au goût du jour, et appliquée avec des logiciels modernes, la méthode ZettleKasten. Ses vidéos sont absolument à voir pour tous ceux qui envisagent de devenir créateurs de contenus ou qui vont devoir créer ou manipuler de la connaissance au cours de leur carrière. (Rédacteurs, Chercheurs, Vidéastes ...)
 
 https://www.youtube.com/c/EliottMeunier
 
@@ -33,11 +34,11 @@ C'est en anglais, mais les contenus sont vraiment top. Ali Abdal traite de produ
 https://www.youtube.com/c/aliabdaal
 
 ## Shubham SHARMA (Youtube)
-C'est un peu le Ali Abdaal français. Il traite sur sa chaine de productivité, d'automatisation sans coder, de Growth Hacking. Bref il y a toujours une bonne astuce à piquer dans ses vidéos.
+C'est un peu le Ali Abdaal français. Il traite sur sa chaine de productivité, d'automatisation sans coder, de Growth Hacking. Bref il y a toujours une bonne astuce à prendre dans ses vidéos.
 
 https://www.youtube.com/channel/UCLKx4-_XO5sR0AO0j8ye7zQ
 
 ## Les Sherpas (Youtube)
-Si vous comptez poursuivre vos études, cela peut valoir le coup de jeter un œil à cette chaine. Vous y trouverez de nombreuses astuces pour faciliter vos révisions, prises de notes, mieux apprendre, etc.
+Si vous comptez poursuivre vos études, cela peut valoir le coup de jeter un œil à cette chaine. Vous y trouverez de nombreuses astuces pour faciliter vos révisions, vos prises de notes, mieux apprendre, etc.
 
 https://www.youtube.com/c/LesSherpas
