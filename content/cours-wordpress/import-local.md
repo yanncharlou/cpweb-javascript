@@ -4,6 +4,8 @@ date =  2022-07-07T13:55:20+02:00
 weight = 5
 +++
 
+Télécharger local wp et l'installer : [https://localwp.com/](https://localwp.com/)
+
 ## Export d'un site depuis local wp
 - Dans la liste des sites sur local wp, clic droit > export
 - Local va générer un fichier .zip que l'on pourra utiliser pour importer le site sur un autre ordinateur.
