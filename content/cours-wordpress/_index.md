@@ -27,8 +27,9 @@ pre = "<b>Cours </b>"
 - <a href="https://developer.wordpress.org/themes/" target="_blank">Créer un thème (EN)</a>
 - <a href="https://grafikart.fr/tutoriels/wordpress-creation-theme-1254" target="_blank">Créer un thème (cours vidéo + texte FR)</a>
 - <a href="https://wphierarchy.com/" target="_blank">Hiérarchie des templates (EN)</a>
-- <a href="https://codex.wordpress.org/Plugin_API/Action_Reference" target="_blank">Liste des actions (EN)</a>
-- <a href="https://codex.wordpress.org/Plugin_API/Filter_Reference" target="_blank">Liste des filtres (EN)</a>
+- <a href="https://adambrown.info/p/wp_hooks/hook" target="_blank">Liste des tous les Hook Wordpress Actions et Filtres</a>
+- <a href="https://codex.wordpress.org/Plugin_API/Action_Reference" target="_blank">Liste des actions (Doc officielle, EN)</a>
+- <a href="https://codex.wordpress.org/Plugin_API/Filter_Reference" target="_blank">Liste des filtres (Doc officielle, EN)</a>
 
 ### Les plugins bien pratiques
 - `Query Monitor` : Affiche de nombreuses informations sur la page en cours dans la barre.
